@@ -1,6 +1,6 @@
 # 🔐 Password Manager Bot (Tkinter GUI)
 
-A simple cross-platform password manager built with Python and Tkinter. Generates and saves strong passwords securely to a text file.
+A simple cross-platform password manager built with Python and Tkinter. Generates and saves strong passwords securely to a text file. it also allows you to copy the generated password to the clipboard for easy use.
 
 ## ✅ Features
 - Random strong password generator
